@@ -20,7 +20,7 @@
     "body-parser": "*",
     "co": "~4.6.0",
     "express": "*",
-    "minimist": "*",
+    "minimist": "1.2.0",
     "morgan": "*",
     "mz": "~2.7.0",
     "request": "^2.81.0",
